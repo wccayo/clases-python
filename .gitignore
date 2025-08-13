@@ -1,0 +1,19 @@
+# Archivos de caché del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.pyc
+
+# Archivos de datos temporales
+*.tmp
+*.log
+*.swp
+*.bak
+Temporal/
