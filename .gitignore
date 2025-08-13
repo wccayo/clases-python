@@ -11,6 +11,9 @@ env/
 __pycache__/
 *.pyc
 
+# Archivo de variables de entorno
+.env
+
 # Archivos de datos temporales
 *.tmp
 *.log
